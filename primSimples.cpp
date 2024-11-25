@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-//foi o q eu usei.
 struct Grafo {
     int numeroVertices;
     int **matriz;
